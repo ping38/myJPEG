@@ -1,0 +1,2 @@
+# myJPEG
+JPEG encoder / decoder
